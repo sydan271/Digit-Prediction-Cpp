@@ -10,6 +10,7 @@
 #include <random>
 #include <chrono>
 #include "neuralNetwork.h"
+
 int main()
 {
 
