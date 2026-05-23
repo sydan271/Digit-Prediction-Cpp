@@ -7,7 +7,11 @@
 
 class NeuralNetwork
 {
+    private:
+        std::vector<std::vector<double>> w;
+        std::vector<double> b; 
     
+    public: 
 
 };
 
